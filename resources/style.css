@@ -50,6 +50,22 @@ h1{
   padding: 20px;
 }
 
+.process p{
+  padding: 20px;
+}
+
+.ny{
+  font-size: 23;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  height: 50px;
+  background-repeat: no-repeat;
+  padding: 8px;
+  margin: 35px;
+  text-align: center;
+}
+
 *{
   margin:0;
 
